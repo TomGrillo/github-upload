@@ -1,0 +1,8 @@
+namespace bpm.tgr;
+
+using bpm.tgr::bpmTypes;
+
+entity application {
+    key applicationId : bpmTypes.id;
+        name          : bpmTypes.name;
+};

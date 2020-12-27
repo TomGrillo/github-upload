@@ -1,0 +1,6 @@
+namespace bpm.tgr;
+
+context bpmTypes {
+    type id : String(10);
+    type name : String(50);
+}
